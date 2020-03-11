@@ -9,10 +9,10 @@
 }
 
 body {
-  background: #585c68;
+  background: #;
   font-size: 14px;
   line-height: 22px;
-  color: #555555;
+  color: #;
 }
 
 .bold {
@@ -23,7 +23,7 @@ body {
 
 .semi-bold {
   font-weight: 500;
-  font-size: 16px;
+  font-size: 19px;
 }
 
 .resume {
@@ -35,7 +35,7 @@ body {
 
 .resume .resume_left {
   width: 280px;
-  background: #0bb5f4;
+  background: #000000;
 }
 
 .resume .resume_left .resume_profile {
