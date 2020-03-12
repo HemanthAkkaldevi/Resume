@@ -80,12 +80,13 @@ body {
   align-items: center;
 }
 
+
 .resume .resume_left ul li:last-child {
   margin-bottom: 0;
 }
 
 .resume .resume_left ul li .icon {
-  width: 35px;
+  width: 34px;
   height: 35px;
   background: #fff;
   color: #0bb5f4;
@@ -204,7 +205,7 @@ body {
   top: 14px;
   left: -21px;
   width: 2px;
-  height: 111000px;
+  height: 11000px;
   background: #0bb5f4;
 }
 
